@@ -71,7 +71,3 @@ The scraper collects information such as book titles, prices, and ratings, and s
 * Working with HTML structure and parsing data
 * Automating data collection workflows
 * Converting raw web data into structured datasets
-
----
-* Integrate with a database (SQL)
-* Schedule automated scraping jobs
